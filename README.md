@@ -12,12 +12,5 @@
 </details>
 
 
-<div align="center">
-    <a href="https://git.io/streak-stats" style="margin-right: 20px;">
-        <img src="https://streak-stats.demolab.com?user=wjdrjs00&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=180" alt="GitHub Streak" width="400">
-    </a>
-    <a href="https://solved.ac/kimjk3409">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjk3409" alt="Solved.ac 프로필" width="300">
-    </a>
-</div>
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjk3409)
 
