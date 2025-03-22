@@ -5,21 +5,17 @@
 
 <br>
 
-### 🧤 Experience
-|  |  |
-|:-----------------------------|:------------------:|
-| - 인하공업전문대학 컴퓨터시스템공학과 | `(2022.03 ~ 2025.02)` |
-| - 대학생 연합 IT 벤처 창업 동아리 [SOPT](https://www.sopt.org/) 35th Android Part | `(2024.09 ~ 2025.01)` |
-
+### 🧗🏻‍♂️ Experience
+- 인하공업전문대학 컴퓨터시스템공학과 `(2022.03 ~ 2025.02)`
+- 대학생 연합 IT 벤처 창업 동아리 [SOPT](https://www.sopt.org/) 35th Android Part `(2024.09 ~ 2025.01)`
 <br>
 
 ### 🖥️ Project
 
-|  | 프로젝트 명 | 프로젝트 설명 | 프로젝트 기간 |
-|:-------------------------------------------------------------------------------------------------------------------:|:-----------------------------|:------------------|:------------------|
-| <img width="45" height="45" src="https://github.com/user-attachments/assets/6eb9b594-dc4d-4bef-874e-2c4ad66a7ad5" > | **공백** `[팀 프로젝트]` | 공강 시간을 특별하게 채울 수 있는 서비스| `2024.12.21 ~ ing`|
-| <img width="45" height="45" src="https://github.com/user-attachments/assets/d6320573-cf4b-44c4-8fe5-4e9ca0bb8fb6" > | **Coinkiri** `[개인 사이드 프로젝트]` | 실시간 코인 시세를 확인할 수 있는 서비스| `2024.03.12 ~ ing`|
-| <img width="45" height="45" src="https://github.com/user-attachments/assets/271a4625-c338-41bd-ad32-e4d0ec320cdf" > | **StupidPotato** `[해커톤 프로젝트]` | **감자(바보)** 들이 바보짓을 공유해 웃음을 나누는 서비스 | `2024.11.23 ~ 2024.11.24`|
+|  | title | description | period | link |
+|:-------------------------------------------------------------------------------------------------------------------:|:-----------------------------|:------------------|:------------------|:------------------|
+| <img width="45" height="45" src="https://github.com/user-attachments/assets/6eb9b594-dc4d-4bef-874e-2c4ad66a7ad5" > | **공백** | `[팀 프로젝트]`<Br> 공강 시간을 특별하게 채울 수 있는 서비스| `2024.12.21 ~ ing`|[Repository](https://github.com/Team-GONG-BAEK/gong-baek-android) |
+| <img width="45" height="45" src="https://github.com/user-attachments/assets/271a4625-c338-41bd-ad32-e4d0ec320cdf" > | **StupidPotato** | `[해커톤 프로젝트]`<Br> **감자(바보)** 들이 바보짓을 공유해 웃음을 나누는 서비스 | `2024.11.23 ~ 2024.11.24`| [Repository](https://github.com/SOPT-all/35-SOPKATHON-ANDROID-ANDROID2) |
 
 <br>
 
