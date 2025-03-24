@@ -6,8 +6,8 @@
 <br>
 
 ### 🧗🏻‍♂️ Experience
-- 인하공업전문대학 컴퓨터시스템공학과 `(2022.03 ~ 2025.02)`
-- 대학생 연합 IT 벤처 창업 동아리 [SOPT](https://www.sopt.org/) 35th Android Part `(2024.09 ~ 2025.01)`
+- `[2022.03 ~ 2025.02]` 인하공업전문대학 컴퓨터시스템공학과
+- `[2024.09 ~ 2025.01]` 대학생 연합 IT 벤처 창업 동아리 [SOPT](https://www.sopt.org/) 35th Android Part
 <br>
 
 ### 🖥️ Project
