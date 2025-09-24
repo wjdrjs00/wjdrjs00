@@ -1,5 +1,8 @@
-### 안녕하세요. 김대현 깃허브 입니다.
+### <img width="70" height="68" alt="image" src="https://github.com/user-attachments/assets/08766026-ae2b-441e-9754-99aefb113267" align="absmiddle" /> 안녕하세요. 김대현 깃허브 입니다.
 <br>
+
+
+
 
 ### Projects.
 
