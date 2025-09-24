@@ -3,12 +3,12 @@
 
 ### Projects.
 
-<img width="35" height="35" src="https://github.com/user-attachments/assets/c6607215-b774-4733-927c-f1a6d2e5564c" align="absmiddle" />ㅤ**빛나길** [ 나를 일으킬, 다시 키는 작은 시작 ]
+<img width="35" height="35" src="https://github.com/user-attachments/assets/c6607215-b774-4733-927c-f1a6d2e5564c" align="absmiddle" />ㅤ**빛나길** - [ 나를 일으킬, 다시 키는 작은 시작 ]
   > Android Developer [`2025.05 ~ ing`]<p>
   > <a href="https://play.google.com/store/apps/details?id=com.threegap.bitnagil"><img src="https://img.shields.io/badge/Play Store-414141?style=for-the-badge&logo=googleplay&logoColor=white" align="absmiddle" /></a> <a href="https://apps.apple.com/kr/app/%EB%B9%9B%EB%82%98%EA%B8%B8/id6749437799"><img src="https://img.shields.io/badge/App store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" align="absmiddle" /></a></p>
 <br>
 
-<img width="35" height="35" src="https://github.com/user-attachments/assets/f48395f8-dc2f-4765-93fe-9fb4947f35b3" align="absmiddle" />ㅤ**공백** [ 공강을 백으로 채우는 순간 ]
+<img width="35" height="35" src="https://github.com/user-attachments/assets/f48395f8-dc2f-4765-93fe-9fb4947f35b3" align="absmiddle" />ㅤ**공백** - [ 공강을 백으로 채우는 순간 ]
   > Android Developer [`2024.12 ~ ing`]<p>
   > <a href="https://play.google.com/store/apps/details?id=com.gongbaek.android&hl=ko"><img src="https://img.shields.io/badge/Play Store-414141?style=for-the-badge&logo=googleplay&logoColor=white" align="absmiddle" /></a> <a href="https://apps.apple.com/kr/app/%EA%B3%B5%EB%B0%B1/id6740983654"><img src="https://img.shields.io/badge/App store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" align="absmiddle" /></a></p>  
 <br>
