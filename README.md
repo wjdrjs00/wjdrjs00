@@ -1,10 +1,11 @@
 ### <img width="70" height="68" alt="image" src="https://github.com/user-attachments/assets/08766026-ae2b-441e-9754-99aefb113267" align="absmiddle" /> 안녕하세요. 김대현 깃허브 입니다.
 <br>
 
-
-
-
 ### Projects.
+
+<img width="35" height="35" src="https://github.com/user-attachments/assets/46aa106e-90d8-4112-9039-44741eb7b3b0" align="absmiddle" />ㅤ**모아** - [ AI로 읽어내는 부모님의 인지변화 ]
+  > Android Developer [`2025.10 ~ ing`]<p>
+<br>
 
 <img width="35" height="35" src="https://github.com/user-attachments/assets/c6607215-b774-4733-927c-f1a6d2e5564c" align="absmiddle" />ㅤ**빛나길** - [ 나를 일으킬, 다시 키는 작은 시작 ]
   > Android Developer [`2025.05 ~ ing`]<p>
